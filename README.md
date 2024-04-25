@@ -1,5 +1,5 @@
 # RNQS
-Quantum Search Algorithm (Robust Non-oracle Quantum Search)
+Robust Non-oracle Quantum Search Algorithm (RNQS)
 
 The algorithm corresponds to
 
