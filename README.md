@@ -26,4 +26,5 @@ Use *python setup.py install* to install.
 *plotmap.R* creates the visual associations between the 4 pollutants and PM2.5.
 
 [1] J. Chen, C. Park and Y. Ke, "Learning High Dimensional Multi-response Linear Models with Non-oracular Quantum Search," 2022 IEEE International Conference on Quantum Computing and Engineering (QCE), Broomfield, CO, USA, 2022, pp. 1-12, doi: 10.1109/QCE53715.2022.00018.
+
 [2] Zhang , T.; Ke, Y.  ℓ0  Optimization with Robust Non-Oracular Quantum Search. Technologies 2023, 11, 148. https://doi.org/10.3390/technologies11050148
