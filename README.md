@@ -1,6 +1,6 @@
 # README.md
 
-## Folder py_packages contains the **qics** library which implements FA and NQS. NQS is the core module of the proposed method QICS.
+## Folder py_packages contains the **qics** library which implements FA, NQS and RNQS. NQS is the core module of the proposed method QICS.
 Use *python setup.py install* to install.
 
 
